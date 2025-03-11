@@ -1,3 +1,0 @@
-*.html linguist-detectable=false
-
-data/alibaba_microservices/call_graph_data.tar.lzma filter=lfs diff=lfs merge=lfs -text
